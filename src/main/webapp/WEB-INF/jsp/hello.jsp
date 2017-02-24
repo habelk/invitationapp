@@ -9,7 +9,7 @@
 <title>Hello  there</title>
 </head>
 <body>
-<h1>hello hello - </h1>
+<h1>Custom JSP Page</h1>
 <h1>${greeting}</h1>
 </body>
 </html>
